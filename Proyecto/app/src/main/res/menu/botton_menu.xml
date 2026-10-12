@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFragment"
+            android:icon="@drawable/baseline_home_24"
+            android:title="@string/texthome"/>
+    <item
+        android:id="@+id/categoryFragment"
+        android:icon="@drawable/outline_apps_24"
+        android:title="@string/textcategory" />
+    <item
+        android:id="@+id/productsFragment"
+        android:icon="@drawable/outline_add_shopping_cart_24"
+        android:title="@string/textproducts" />
+    <item android:id="@+id/profileFragment"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/textprofile" />
+</menu>
